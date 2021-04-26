@@ -29,6 +29,8 @@ public class UserController {
     int update(@RequestBody User user) {return userService.update(user);};
     @RequestMapping("/delete")
     int delete(Integer id){return userService.delete(id);};
+
+
     @RequestMapping("/getById")
     public User getById(Integer userId){
         return userService.getById(userId);
