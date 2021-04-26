@@ -1,0 +1,5 @@
+priv\lwj\thinker\test\service\UserService.class
+priv\lwj\thinker\test\HelloWorldMainApplication.class
+priv\lwj\thinker\test\controller\HelloWorldController.class
+priv\lwj\thinker\test\pojo\User.class
+priv\lwj\thinker\test\mapper\UserMapper.class
